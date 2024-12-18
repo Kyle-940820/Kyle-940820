@@ -8,9 +8,9 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 
     안녕하세요.
-    ABAP 공부를 하고 있는 하정훈이라고 합니다. 
-    SCM, FI 모듈에 관심이 많습니다.
-    이메일로 언제든지 연락 주시고 좋은 하루 되세요! </div> 
+    <br/>ABAP 공부를 하고 있는 하정훈이라고 합니다. 
+    <br/>SCM, FI 모듈에 관심이 많습니다.
+    <br/>이메일로 언제든지 연락 주시고 좋은 하루 되세요! </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks 🛠️ </h2> <br> 
