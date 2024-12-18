@@ -1,7 +1,9 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:610085,100:eb0000&height=240&text=Kyle's%20Github&animation=twinkling&fontColor=ffffff&fontSize=70" />
     </div>
+    <div align= "center"> 
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sour+Gummy&weight=300&size=35&pause=1000&width=435&lines=ABAP+%2F+UI5+Developer" alt="Typing SVG" /></a>
+    </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 
