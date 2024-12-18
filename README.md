@@ -12,6 +12,15 @@
     <br/>SCM, FI 모듈에 관심이 많습니다.
     <br/>이메일로 언제든지 연락 주시고 좋은 하루 되세요! </div> 
     </div>
+    ## </a> SYNC 5기 프로젝트 - 맥주제조회사의 SAP ERP 도입을 통한 제조&유통 시스템 최적화
+
+| 직책, 담당 모듈 | ABPA 프로그램 | UI5 프로그램 |
+|:-------------:|:-------------------|:------------|
+| **Project Manager, SCM, FI<br><br>| ⚬ [FI] 매출내역 반제<br>⚬ [SD] 대금청구 생성<br>⚬ [MM] 자재마스터 CRUD<br>⚬ [MM] 구매요청 생성<br>⚬ [MM] 구매오더 스케쥴링(배치잡)<br>⚬ [MM] 송장 검증 <br>⚬ [MM] 자재문서 조회| ⚬ [SD] 판매실적 분석|
+
+
+
+<hr>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks 🛠️ </h2> <br> 
     <img src="https://raw.githubusercontent.com/github/explore/339de3fa1bceb3fe3eda8c8220bccc706057203f/topics/abap/abap.png" width="100" height="100"/>
