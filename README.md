@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:610085,100:eb0000&height=240&text=Kyle's%20Github&animation=twinkling&fontColor=ffffff&fontSize=70" />
     </div>
     <div align= "center"> 
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sour+Gummy&weight=300&size=35&pause=1000&width=435&lines=ABAP+%2F+UI5" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sour+Gummy&weight=300&size=35&pause=1000&width=435&lines=ABAP" alt="Typing SVG" /></a>
     </div>
     <div align= "center"> 
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sour+Gummy&weight=300&size=35&pause=1000&width=435&lines=Developer+%26+Consultant" alt="Typing SVG" /></a>
