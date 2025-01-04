@@ -12,7 +12,6 @@
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> 
     안녕하세요.
     <br/>ABAP 공부를 하고 있는 하정훈이라고 합니다. 
-    <br/>SCM, FI 모듈에 관심이 많습니다.
     <br/>이메일로 언제든지 연락 주시고 좋은 하루 되세요! </div> <br> <br> <br> <br> 
     </div>
     <div><h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> SYNC 5기 프로젝트 - 맥주제조회사의 SAP ERP 도입을 통한 제조&유통 시스템 최적화 </h2> <br> 
